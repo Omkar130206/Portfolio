@@ -2,10 +2,6 @@
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, certifications, education, and contact information as I continue my journey as a Web Developer.
 
-## 🚀 Live Website
-
-👉 https://YOUR_USERNAME.github.io/portfolio/
-
 ## 📌 About
 
 I am **Omkar Panchal**, a Third-Year Electronics & Telecommunication Engineering student passionate about Web Development.
